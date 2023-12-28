@@ -2,7 +2,8 @@
 
 import java.util.Scanner;
 
-public class prac1_1 {
+public class prac1_1
+{
     public static void main(String[] args)
     {
         int a,b,c;
